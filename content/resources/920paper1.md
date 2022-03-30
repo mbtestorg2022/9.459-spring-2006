@@ -5,6 +5,7 @@ description: 'This resource contains quantitative framework for the ventral stre
   biologically plausible circuits for tuning and max.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-459-scene-understanding-symposium-spring-2006/0cbf8c72476d9e6962a247a164dafb55_920paper1.pdf
 file_type: application/pdf
+parent_uid: 84aeefbe-fdef-f451-c05b-0bf70eb2ee35
 resourcetype: Document
 title: 920paper1.pdf
 uid: 0cbf8c72-476d-9e69-62a2-47a164dafb55
